@@ -1,6 +1,6 @@
 # Gerenciador-com-Python-e-Django
 
-## Gerenciando com python e framework Django
+## Gerenciando a nova empresa com python e framework Django
 
 
 # Para instalar as bibliotecas:
